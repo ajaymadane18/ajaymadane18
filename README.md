@@ -234,14 +234,6 @@ My goal is to write clean, readable code and continuously grow as a software dev
 
 💻 **GitHub:** [ajaymadane18](https://github.com/ajaymadane18)
 
-🧩 **LeetCode:** [ajaymadane](https://leetcode.com/u/ajaymadane/)
+🧩 **LeetCode:** [ajaymadane](https://leetcode.com/u/ajay_madane_122/)
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaymadane18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>Keep Learning. Keep Building. Keep Improving. 🚀</i>
-</p>
