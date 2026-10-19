@@ -136,8 +136,10 @@ GitHub: Ajay Madane
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## 📈 GitHub Stats
+## ⚡ Stats ⚡
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaymadane18&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymadane18&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymadane18&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaymadane18&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaymadane18&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
